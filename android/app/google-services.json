@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "925131860604",
+    "project_id": "electronic-admin",
+    "storage_bucket": "electronic-admin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925131860604:android:d7feedbf79c44b0f5ff7f9",
+        "android_client_info": {
+          "package_name": "com.example.electronic_admin_panel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925131860604-es29anp6evp510pcnnp962t4lrmjh7cq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsXpteFQwwLhhK6xFr5_PiXWVit3BRMf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925131860604-es29anp6evp510pcnnp962t4lrmjh7cq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "925131860604-intnjmonjpajcela2kgsuq39fopjr6uc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.electronicAdminPanel"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
